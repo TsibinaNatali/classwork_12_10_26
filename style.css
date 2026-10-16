@@ -1,5 +1,72 @@
+@font-face {
+    font-family: "DIN Pro";
+    src: url("./fonts/DINPro.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
 *{
     margin: 0;
     padding: 0;
     text-decoration: none;
+}
+:root{
+    --grey-color: #323333;
+    --pink-color: #E82E8a;
+    --grey-font-color:#acacac;
+    --wifth-description-container:
+}
+a{
+    color: inherit;
+}
+ol{
+    list-style: none;
+}
+header,
+footer{
+    background-color:var(--grey-color);
+    color: white;
+}
+.container{
+    margin: auto;
+    width: 1230px;
+}
+header > .container > img{
+    width: 77px;
+    height: fit-content;
+}
+header >.container > .menu{
+    flex-grow: 1;
+    padding: 0 40px;
+}
+.menu > ol{
+    display: flex;
+}
+.get-call{
+    font-family: "DIN Pro";
+    font-size: 14px;
+    background-color: var(--pink-color);
+    padding: 10px 20px;
+    border-radius: 16px;
+    height: fit-content;
+}
+.menu-up, .menu-down{
+    padding: 15px 0;
+}
+.menu-up{
+    color: var(--grey-font-color);
+    display: flex;
+    gap: 60px;
+
+}
+.menu-down{
+    text-transform: uppercase;
+    display: flex;
+    gap:40px;
+    border-top: white 1px solid;
+
+}
+.flex-inline{
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
 }
