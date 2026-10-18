@@ -10,6 +10,7 @@
     text-decoration: none;
     font-family: "DIN Pro";
     font-size: 14px;
+    box-sizing: border-box;
 }
 :root{
     --grey-color: #323333;
@@ -80,6 +81,14 @@ header >.container > .menu{
     background-image: url(img/img_2.jpg);
     height: 872px;
 }
+.back3{
+    background-image: url(img/img_3.jpg);
+    height: 872px;
+}
+.back4{
+    background-image: url(img/img_4new.jpg);
+    height: 872px;
+}
 .card-event{
     margin-bottom:10px;
 }
@@ -93,7 +102,7 @@ header >.container > .menu{
     font-size: 28px;
     font-weight: 900;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin:25px 0 15px;
 }
 .description > p{
     font-size: 15px;
@@ -126,4 +135,21 @@ header >.container > .menu{
     text-align: center;
     color: var(--grey-color);
     margin: 25px 0 15px;
+}
+.form-group{
+    margin-bottom: 15px;
+    width: var(--width-description-container);
+}
+.icons{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.icons > li{
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 0 10px 0;
 }
