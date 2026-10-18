@@ -8,12 +8,14 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: "DIN Pro";
+    font-size: 14px;
 }
 :root{
     --grey-color: #323333;
     --pink-color: #E82E8a;
     --grey-font-color:#acacac;
-    --wifth-description-container:
+    --width-description-container:943px;
 }
 a{
     color: inherit;
@@ -42,12 +44,12 @@ header >.container > .menu{
     display: flex;
 }
 .get-call{
-    font-family: "DIN Pro";
-    font-size: 14px;
     background-color: var(--pink-color);
     padding: 10px 20px;
     border-radius: 16px;
     height: fit-content;
+    cursor: pointer;
+    text-decoration: underline;
 }
 .menu-up, .menu-down{
     padding: 15px 0;
@@ -69,4 +71,59 @@ header >.container > .menu{
     display: flex;
     align-items: center;
     padding: 3px 0;
+}
+.back1{
+    background-image: url(img/img_1.jpg);
+    height: 872px;
+}
+.back2{
+    background-image: url(img/img_2.jpg);
+    height: 872px;
+}
+.card-event{
+    margin-bottom:10px;
+}
+.black-back{
+    z-index: 1;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.title{
+    font-size: 28px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.description > p{
+    font-size: 15px;
+    width: var(--width-description-container);
+    margin-bottom: 10px;
+}
+.btn{
+    text-transform: uppercase;
+    padding: 6px 12px;
+    border: 1px solid white;
+    border-radius: 16px;
+    width: fit-content;
+    margin: 10px 20px 20px 0;
+    cursor: pointer;
+}
+.position-end{
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    height: 100%;
+}
+.btn-line{
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: end;
+    width: var(--width-description-container);
+
+}
+.grey-title{
+    text-align: center;
+    color: var(--grey-color);
+    margin: 25px 0 15px;
 }

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="637 121 76.522 76.722" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+    </style>
+  </defs>
+  <g id="sauna" transform="translate(637.011 121.011)">
+    <g id="Group_6" data-name="Group 6">
+      <path id="Path_24" data-name="Path 24" class="cls-1" d="M37.4,44.4l-3.4-2,2.8-4.7a5.194,5.194,0,0,0-.1-5.5,9.083,9.083,0,0,1,.1-10l2.5-3.7,3.3,2.2-2.5,3.7a5.14,5.14,0,0,0,0,5.7,9.213,9.213,0,0,1,.2,9.6Z"/>
+      <path id="Path_25" data-name="Path 25" class="cls-1" d="M28.7,44.4l-3.4-2,2.8-4.7a5.194,5.194,0,0,0-.1-5.5,9.083,9.083,0,0,1,.1-10l2.5-3.7,3.3,2.2-2.5,3.7a5.14,5.14,0,0,0,0,5.7,9.213,9.213,0,0,1,.2,9.6Z"/>
+      <path id="Path_26" data-name="Path 26" class="cls-1" d="M46,44.4l-3.4-2,2.8-4.7a5.194,5.194,0,0,0-.1-5.5,9.279,9.279,0,0,1,.1-10l2.5-3.7,3.3,2.2-2.5,3.7a5.335,5.335,0,0,0,0,5.7,9.213,9.213,0,0,1,.2,9.6Z"/>
+    </g>
+    
+    <g id="Group_9" data-name="Group 9">
+      <g id="Group_7" data-name="Group 7">
+        <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="8.9" height="4" transform="translate(22.6 49.9)"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-1" width="8.9" height="4" transform="translate(33.8 49.9)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="8.9" height="4" transform="translate(45 49.9)"/>
+      </g>
+      <g id="Group_8" data-name="Group 8">
+        <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="4" height="9.5" transform="translate(50 49.9)"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="4" height="9.5" transform="translate(22.6 49.9)"/>
+      </g>
+    </g>
+  </g>
+</svg>

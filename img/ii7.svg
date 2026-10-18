@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="834 121 76.6 76.7" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+    </style>
+  </defs>
+  <g id="Beg" transform="translate(834 121)">
+  
+    <g id="Group_17" data-name="Group 17">
+      <path id="Path_40" data-name="Path 40" class="cls-1" d="M52.8,21.2a8.1,8.1,0,1,0-8.1,8.1A8.066,8.066,0,0,0,52.8,21.2Zm-8.1,4a4.1,4.1,0,1,1,4.1-4.1A4.118,4.118,0,0,1,44.7,25.2Z"/>
+      <path id="Path_41" data-name="Path 41" class="cls-1" d="M47.4,39.1a6.367,6.367,0,0,1-2.7-.7l-12-7.5c-.6-.4-1.5,0-2,.8L27.4,37,24,34.9l3.4-5.4a5.42,5.42,0,0,1,7.5-2l12,7.5a1,1,0,0,0,.9.1,2.1,2.1,0,0,0,1.1-.8l3.4-5.4L55.7,31l-3.4,5.4A5.974,5.974,0,0,1,49,39C48.4,39,47.9,39.1,47.4,39.1Z"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="32.5" height="4" transform="translate(20.948 59.376) rotate(-58.007)"/>
+      <path id="Path_42" data-name="Path 42" class="cls-1" d="M36.9,63.7l-3.4-2.1,4.3-6.9a3.3,3.3,0,0,0-1.1-4.6l-2-1.3,2.1-3.4,2,1.3a7.319,7.319,0,0,1,2.3,10.1Z"/>
+    </g>
+  </g>
+</svg>

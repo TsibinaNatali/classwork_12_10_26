@@ -1,0 +1,28 @@
+<svg id="soliari" xmlns="http://www.w3.org/2000/svg" viewBox="2098 104 76.6 76.7" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #8dc3df;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+
+  <g id="Group_41" data-name="Group 41" transform="translate(2098 104)">
+    <path id="Path_862" data-name="Path 862" class="cls-2" d="M51.3,38.9A12.383,12.383,0,0,1,47.5,48a12.545,12.545,0,0,1-9.1,3.8A12.383,12.383,0,0,1,29.3,48a12.545,12.545,0,0,1-3.8-9.1,12.383,12.383,0,0,1,3.8-9.1A12.545,12.545,0,0,1,38.4,26a12.383,12.383,0,0,1,9.1,3.8A12.163,12.163,0,0,1,51.3,38.9Z"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" y2="7.3" transform="translate(38.3 12.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" y2="7.3" transform="translate(38.3 56.9)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-2" x1="5.1" y2="5.1" transform="translate(51.4 20.1)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-2" x1="5.1" y2="5.1" transform="translate(20 51.5)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-2" x1="7.3" transform="translate(56.8 38.4)"/>
+    <line id="Line_6" data-name="Line 6" class="cls-2" x1="7.3" transform="translate(12.4 38.4)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-2" x1="5.1" y1="5.1" transform="translate(51.4 51.5)"/>
+    <line id="Line_8" data-name="Line 8" class="cls-2" x1="5.1" y1="5.1" transform="translate(20 20.1)"/>
+  </g>
+</svg>

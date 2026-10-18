@@ -1,0 +1,12 @@
+<svg id="aerob" xmlns="http://www.w3.org/2000/svg" viewBox="261 122 76.6 76.7" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+    </style>
+  </defs>
+  <g id="Group_25" data-name="Group 25">
+    <path id="Path_12" data-name="Path 12" class="cls-1" d="M46.3,22.3a8.1,8.1,0,1,0-8.1,8.1A8.13,8.13,0,0,0,46.3,22.3Zm-8,4a4,4,0,1,1,4-4A4.012,4.012,0,0,1,38.3,26.3Zm7,8a5.015,5.015,0,0,0-5,5V62.5h4V39.4a1,1,0,0,1,1-1H58.4v-4H45.3Zm-14.1,0H18.1v4H31.2a1,1,0,0,1,1,1V62.5h4V39.4A4.974,4.974,0,0,0,31.2,34.3Z" transform="translate(261 122)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="163 105 76.6 76.7" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+    </style>
+  </defs>
+  <g id="tren_zal" transform="translate(0 -16)">
+    <path id="Path_10" data-name="Path 10" class="cls-1" d="M28.2,40.7V36.4H17.3v4.3h-4V13.8h4V32.4H28.2V13.8h4V40.7Zm6.9-21.2V11.3H10.5v8.2h-4V11.3H4v4.9H0V2.3H4v5H6.5V0h4V7.3H35.1V0h4V7.3h2.4v-5h4V16.2h-4V11.3H39.1v8.2Z" transform="translate(178.5 140)"/>
+  </g>
+</svg>

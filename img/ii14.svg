@@ -1,0 +1,15 @@
+<svg id="shower" xmlns="http://www.w3.org/2000/svg" viewBox="543 121 76.6 76.7" width="34px">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc3df;
+      }
+    </style>
+  </defs>
+
+  <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="4" height="7.2" transform="translate(574.6 159.1)"/>
+  <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="4" height="7.2" transform="translate(583.9 159.1)"/>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="4" height="7.2" transform="translate(574.6 171.5)"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="4" height="7.2" transform="translate(583.9 171.5)"/>
+  <path id="Path_23" data-name="Path 23" class="cls-1" d="M52.9,33.7H23.6v-2A12.718,12.718,0,0,1,36.3,19h4A12.718,12.718,0,0,1,53,31.7v2Zm-25.1-4H48.7A8.68,8.68,0,0,0,40.3,23h-4A8.794,8.794,0,0,0,27.8,29.7Z" transform="translate(543 121)"/>
+</svg>
