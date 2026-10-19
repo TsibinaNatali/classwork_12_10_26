@@ -32,6 +32,7 @@ footer{
 .container{
     margin: auto;
     width: 1230px;
+    height: 100%;
 }
 header > .container > img{
     width: 77px;
@@ -68,11 +69,7 @@ header >.container > .menu{
     border-top: white 1px solid;
 
 }
-.flex-inline{
-    display: flex;
-    align-items: center;
-    padding: 3px 0;
-}
+
 .back1{
     background-image: url(img/img_1.jpg);
     height: 872px;
@@ -83,12 +80,22 @@ header >.container > .menu{
 }
 .back3{
     background-image: url(img/img_3.jpg);
-    height: 872px;
+    height: 1050px;
 }
 .back4{
     background-image: url(img/img_4new.jpg);
     height: 872px;
 }
+.back5{
+    background-image: url(img/img_5.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back6{
+    height: auto;
+}
+
 .card-event{
     margin-bottom:10px;
 }
@@ -97,6 +104,7 @@ header >.container > .menu{
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
+    padding:40px 0;
 }
 .title{
     font-size: 28px;
@@ -124,12 +132,36 @@ header >.container > .menu{
     justify-content:end;
     height: 100%;
 }
+.flex-inline{
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+}
 .btn-line{
+    text-transform: uppercase;
     padding-bottom: 20px;
     display: flex;
     justify-content: end;
     width: var(--width-description-container);
 
+}
+.btn-grin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+.btn-1{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 36px 0 18px;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.4);
+    width: 260px;
+    border-radius: 10px;
+    border: 2px solid #abd065;
+    text-align: center;
 }
 .grey-title{
     text-align: center;
@@ -137,13 +169,12 @@ header >.container > .menu{
     margin: 25px 0 15px;
 }
 .form-group{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     width: var(--width-description-container);
 }
 .icons{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
 }
 .icons > li{
     font-size: 18px;
@@ -151,5 +182,78 @@ header >.container > .menu{
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    padding: 10px 0 10px 0;
+    padding: 10px 0;
 }
+.position-center{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    height: 100%;
+}
+.position-start{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 100%;
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.position-start >.title{
+    font-size: 40px;
+}
+.position-start > .description-mini >p{
+    font-size: 18px;
+    margin: 10px 0 0 0;
+}
+.card-event > .back{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1300px;
+    margin: 100px auto;
+    padding: 0 20px;
+}
+.card-child,
+.card-corporate{
+    color: white;
+    position: relative;
+    width: 49%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 30px;
+}
+.card-child{
+    background-image: url(img/img_mini_1.jpg);
+    background-position: left center;
+}
+.card-corporate{
+    background-image: url(img/img_mini_2.jpg);
+    background-position: right center;
+}
+.callback-form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 300px 0 350px;
+    width: 100%;
+}
+.form-group{
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 15px;
+}
+.form-input{
+    width: 100;
+    text-transform: uppercase;
+    padding: 6px 12px;
+    border: 1px solid#ccc;
+    border-radius: 2px;
+    font-size: 14px;
+    outline: none;
+    background-color: #fff;
+}
+
