@@ -256,4 +256,131 @@ header >.container > .menu{
     outline: none;
     background-color: #fff;
 }
+footer{
+    background-color: var(--grey-color);
+    color: white;
+    padding: 60px 0 0 0;
+    margin-top: 60px;
+}
+.footer-container{
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 20px 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 40px;
+}
+.footer-container > .footer-column{
+    padding-right: 30px;
+}
+.brand-column{
+    flex: 1;
+    max-width: 280px;
+}
+.footer-logo{
+    display: flex;
+    flex-direction: column;
+    font-weight: 900;
+    line-height: 1;
+    margin-bottom: 15px;
+}
+.logo-alex{
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.brand-column > h3{
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+.links-grid > ol{
+    flex: 2;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px 30px;
+    align-content: start;
+}
+li > a{
+    font-weight: 500;
+}
+li > a:hover{
+    color: var(--pink-color);
+}
+.app-section{
+    flex: 2;
+    max-width: 420px;
+}
+.app-section > h2{
+    font-size: 22px;
+    margin-bottom: 8px;
+    font-weight: 800;
+}
+.app-section > p{
+    font-size: 13px;
+    color: var(--grey-font-color);
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+.app-content-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.store-icons{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.store-icons > img{
+    display: block;
+    height: 38px;
+    width: auto;
+}
+.phone > img{
+    display: block;
+    height: 130px;
+    width: auto;
+}
+.qr-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+.logo-fitnes{
+    color: var(--pink-color);
+    letter-spacing: 4px;
+}
+.footer-column{
+    min-width: 200px;
+}
+.footer-column > h3{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+.footer-bottom-panel{
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.footer-links{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 25px;
+    margin-bottom: 15px;
+}
+.footer-links > a{
+    color: var(--grey-font-color);
+    text-decoration:underline;
+}
+.footer-bottom-container{
+    font-size: 11px;
+    color:var(--grey-font-color);
+    line-height: 1.5;
+    margin: 0;
+}
+
 
